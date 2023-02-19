@@ -1,3 +1,4 @@
 tesadd
 Entendendo como escluir commit
+Esta linha foi modifica no ramo teste
 
